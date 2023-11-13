@@ -3,6 +3,6 @@ package fizzBuzz;
 public class FizzBuzz {
 
 	public static Object fizzbuzz(int i) {
-		return "1";
+		return Integer.toString(i);
 	}
 }
